@@ -3,7 +3,8 @@
 **Overview**
 This project is a Java-based automation framework utilizing Selenium WebDriver, TestNG, and Log4j to automate testing of web applications. 
 Url: https://demoqa.com/ 
-Conitains code for automating the form and have used the TestNG asssertions.
+Contains code for automatingthe form and have used the TestNG asssertions for Validations.
+
 **Features**
 Java: Utilizes the Java programming language for its flexibility and compatibility.
 Selenium WebDriver: Employs Selenium WebDriver for automating interactions with web browsers.
